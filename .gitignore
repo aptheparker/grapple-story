@@ -5,3 +5,6 @@
 .sudo_as_admin_successful
 .gitconfig
 .git-credentials
+.cache/
+.gdb_history
+.gdbinit
